@@ -10,7 +10,7 @@
     },
     {
       "id":2,
-      "name":"Computer",
+      "name":"Printer",
       "price": 300,
       "quantity":600,
       "selected": true,
