@@ -1,28 +1,36 @@
 {
   "products": [
     {
-      "id":1,
-      "name":"Computer",
+      "id": 1,
+      "name": "Computer",
       "price": 4300,
-      "quantity":600,
+      "quantity": 600,
       "selected": true,
-      "available":true
+      "available": true
     },
     {
-      "id":2,
-      "name":"Printer",
+      "id": 2,
+      "name": "Printer",
       "price": 300,
-      "quantity":600,
+      "quantity": 600,
       "selected": true,
-      "available":true
+      "available": true
     },
     {
-      "id":3,
-      "name":"Smarphone",
+      "id": 3,
+      "name": "Smarphone",
       "price": 4300,
-      "quantity":600,
+      "quantity": 600,
       "selected": true,
-      "available":false
+      "available": false
+    },
+    {
+      "name": "Iphone 12 Pro Max",
+      "price": 500,
+      "quantity": "1526",
+      "available": true,
+      "selected": true,
+      "id": 4
     }
   ]
 }
