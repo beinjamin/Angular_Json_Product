@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Image Mode -
 
-[[https://github.com/beinjamin/Angular_Json_Product/blob/master/images/image1.png|alt=octocat]]
+![https://github.com/beinjamin/Angular_Json_Product/blob/master/images/image1.png|alt=octocat]]
 ![Image Mode](https://github.com/arjunkhetia/Object-Detection/blob/master/src/assets/image2.png "Image Mode")
 ![Image Mode](https://github.com/arjunkhetia/Object-Detection/blob/master/src/assets/image3.png "Image Mode")
 ![Image Mode](https://github.com/arjunkhetia/Object-Detection/blob/master/src/assets/image5.png "Image Mode")
