@@ -19,6 +19,7 @@
     "@angular/platform-browser-dynamic": "~13.3.0",
     "@angular/router": "~13.3.0",
     "concurrently": "^7.1.0",
+    "font-awesome": "^4.7.0",
     "json-server": "^0.17.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
