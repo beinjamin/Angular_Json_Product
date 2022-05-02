@@ -31,10 +31,11 @@
               "node-modules/bootstrap/dist/css/bootstrap.min.css",
               "node-modules/font-awesome/css/font-awesome.min.css"
 
+
             ],
             "scripts": [
-              "node-modules/jquery/dist/jquery.min.js",
-              "node-modules/bootstrap/dist/bootstrap.min.js"
+              "node-modules/jquery/dist/jquery.mini.js",
+              "node-modules/bootstrap/dist/js/bootstrap.min.js"
 
             ]
           },
